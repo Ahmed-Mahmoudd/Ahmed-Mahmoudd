@@ -21,6 +21,7 @@ C# desktop application using an enhanced Dijkstra’s algorithm
 Calculates optimal travel paths with smart walking/driving transitions
 
 Built with Windows Forms and handles large query sets efficiently
+
 🔗 Project Link: https://github.com/Ahmed-Mahmoudd/Map-Routing
 
 🧾 Smart Booking Web App (MERN Stack)
@@ -29,6 +30,7 @@ A full-featured web app with real-world features
 Built using React.js (frontend), Node.js/Express (backend), and MongoDB
 
 Implements authentication (JWT), role-based access, and payment gateway integration
+
 🔗 Project Link: https://github.com/Ahmed-Mahmoudd/natours-api
 
 📚 Certifications
