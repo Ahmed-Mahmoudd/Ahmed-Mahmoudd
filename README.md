@@ -44,10 +44,15 @@ English Communication & Conversation — AUC
 🛠️ Technical Skills
 
 Languages: JavaScript (ES6+), C++, C#, Python, Java, HTML, CSS, SQL
+
 Web Development: React.js, Node.js, Express.js, Angular, Bootstrap
+
 Databases: MongoDB, SQL Server, MySQL
+
 Tools: Git, GitHub, Postman, VS Code, SAP S/4HANA, Windows Forms
+
 Concepts: RESTful APIs, MVC, authentication, debugging, routing, responsive design
+
 
 📫 Connect with Me
 
