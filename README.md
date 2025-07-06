@@ -49,6 +49,6 @@ Concepts: RESTful APIs, MVC, authentication, debugging, routing, responsive desi
 
 📧 Email: ahmed.mahmoud.sobhy03@gmail.com
 
-💼 LinkedIn
+💼 LinkedIn: linkedin.com/in/ahmed-mahmoud11
 
-💻 GitHub
+💻 GitHub: github.com/Ahmed-Mahmoudd
