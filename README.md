@@ -16,11 +16,12 @@ Currently advancing my backend skills with complex features like authentication 
 🚀 Projects
 
 🧭 Intelligent Map Routing System
-A C# desktop application that uses an enhanced Dijkstra’s algorithm
+C# desktop application using an enhanced Dijkstra’s algorithm
 
 Calculates optimal travel paths with smart walking/driving transitions
 
 Built with Windows Forms and handles large query sets efficiently
+🔗 Project Link: https://github.com/Ahmed-Mahmoudd/Map-Routing
 
 🧾 Smart Booking Web App (MERN Stack)
 A full-featured web app with real-world features
@@ -28,6 +29,7 @@ A full-featured web app with real-world features
 Built using React.js (frontend), Node.js/Express (backend), and MongoDB
 
 Implements authentication (JWT), role-based access, and payment gateway integration
+🔗 Project Link: https://github.com/Ahmed-Mahmoudd/natours-api
 
 📚 Certifications
 
@@ -48,7 +50,5 @@ Concepts: RESTful APIs, MVC, authentication, debugging, routing, responsive desi
 📫 Connect with Me
 
 📧 Email: ahmed.mahmoud.sobhy03@gmail.com
-
-💼 LinkedIn: linkedin.com/in/ahmed-mahmoud11
-
-💻 GitHub: github.com/Ahmed-Mahmoudd
+💼 LinkedIn: https://linkedin.com/in/ahmed-mahmoud11
+💻 GitHub: https://github.com/Ahmed-Mahmoudd
