@@ -43,18 +43,28 @@ Applied low-level memory management and scheduler optimization techniques — de
 📚 Certifications :
 
 The Complete Node.js Developer Course — Udemy
+
 Front-End Development Course — DEPI
+
 English Communication & Conversation — AUC
 
 
 🛠️ Technical Skills :
+
 Languages: JavaScript (ES6+), C, C++, C#, Python, Java, HTML, CSS, SQL
+
 Web Development: React.js, Node.js, Express.js, Angular, Bootstrap
+
 Databases: MongoDB, SQL Server, MySQL
+
 Tools: Git, GitHub, Postman, VS Code, SAP S/4HANA, Windows Forms
+
 Concepts: RESTful APIs, MVC, OS kernel development, concurrency & synchronization, memory management, authentication, responsive design
 
-📫 Connect with Me
+📫 Connect with Me : 
+
 📧 ahmed.mahmoud.sobhy03@gmail.com
+
 💼 https://linkedin.com/in/ahmed-mahmoud11
+
 💻 https://github.com/Ahmed-Mahmoudd
